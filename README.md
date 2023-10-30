@@ -1,6 +1,7 @@
 # Netflix---Homepage
 This repository contains the code for building a Netflix-inspired home page using HTML and CSS. The project aims to recreate the visual design and layout of the Netflix home page, providing a starting point for creating similar interfaces or learning web development techniques.
 # Preview
+![2023-10-30](https://github.com/pro8806/Netflix---Homepage/assets/147247983/5ff6e716-dd72-4855-87ed-e2afb092e9ef)
 
 # Features
 . Responsive design: The web page adapts to different screen sizes, ensuring a consistent user experience on desktop and mobile devices.
